@@ -1,3 +1,4 @@
 /target
 applications.json
 Cargo.lock
+.DS_Store
