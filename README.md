@@ -4,7 +4,9 @@ A terminal-based application for tracking job applications.
 
 ## Demo
 
-./assets/demo.mp4
+![Demo](./assets/demo.gif)
+
+[Video version](./assets/demo.mp4)
 
 ## Features
 
